@@ -30,7 +30,7 @@ mysql:
 spring:
   # Spring JDBC configuration
   datasource:
-    url:      jdbc:mysql://localhost/rifa
+    url:      jdbc:mysql://mysql/rifa
     username: rifa
     password: rifa
 
